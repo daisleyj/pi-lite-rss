@@ -1,4 +1,4 @@
-# Display Latest News Headline on a Raspberry Pi Pi-Lite LED display
+# Display Latest News Headline on a Raspberry Pi Pi-Lite LED matrix
 
 ## Overview
 Utilising some old hardware (an original raspberry pi and a Pi-Lite LED matrix board) this simple python script rotates through displaying date, time and the latest headline from BBC UK News on a raspbery pi pi-lite LED matrix. 
